@@ -1,0 +1,8 @@
+[2018-03-09 10:59:44.282] [INFO] pomelo - [32m[D:\CocosProject\test\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2018-03-09 10:59:44.631] [INFO] pomelo - [32m[D:\CocosProject\test\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2018-03-09 10:59:44.634] [INFO] pomelo - [32m[D:\CocosProject\test\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2018-03-09 10:59:44.634] [INFO] pomelo - [32m[D:\CocosProject\test\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 289 ms
+[2018-03-09 14:01:29.867] [INFO] pomelo - [32m[D:\CocosProject\test\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2018-03-09 14:01:30.203] [INFO] pomelo - [32m[D:\CocosProject\test\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2018-03-09 14:01:30.206] [INFO] pomelo - [32m[D:\CocosProject\test\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2018-03-09 14:01:30.206] [INFO] pomelo - [32m[D:\CocosProject\test\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 279 ms
